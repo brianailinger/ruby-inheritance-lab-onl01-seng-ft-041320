@@ -8,4 +8,4 @@ class Student < User
     def learn(sentence)
       knowledge << sentence
     end
-  end
+end
